@@ -1,0 +1,62 @@
+#m{
+    background-color: blueviolet;
+    font-family:cursive;
+}
+
+body{
+    text-align: center;
+    background-color:beige;
+}
+
+#library{
+    text-align:center;
+    height: 300px;
+    width: 300px;
+    border: double;
+    border-width: 5px;
+}
+#great hall{
+    text-align:center;
+    height: 300px;
+    width: 300px;
+    border: double;
+    border-width: 5px;
+}
+#Qpitch{
+    text-align:center;
+    height: 300px;
+    width: 300px;
+    border: double;
+    border-width: 5px;
+}
+
+h1{
+    font-family: fantasy;
+}
+h2{
+    font-family: fantasy;
+}
+
+
+
+.img_modal{
+    display: inline-block;
+}
+
+.p_modal{
+    margin-top: 15px;
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+
+.book hr{
+    margin-bottom: 15px;
+}
+
+.book{
+    cursor: pointer;
+}
+
+
